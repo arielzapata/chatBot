@@ -228,6 +228,7 @@ body {
   overflow: hidden;
   border-radius: 10px;
   position: absolute;
+  margin-top:-100px;
 }
 .client {
   display: flex;
