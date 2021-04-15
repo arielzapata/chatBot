@@ -37,7 +37,7 @@
 </template>
 
 <script>
-  const url = 'http://beta.soldai.com//bill-cipher/askquestion?'
+  const url = 'https://beta.soldai.com//bill-cipher/askquestion?'
   const sessionId = '1903135173030124'
   const keyBot = '740d32f7eb34cd5c3ff90329d0ce4fbd07361e89'
  
